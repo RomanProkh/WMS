@@ -1,2 +1,2 @@
 # WMS
-Warehouse Management System project.
+Warehouse Management System.  
